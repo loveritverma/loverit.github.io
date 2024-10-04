@@ -38,6 +38,13 @@ function openModal(type) {
                 'images/Roka-9.jpg',
                 'images/Roka-10.jpg',
             ];
+        case 'groom_invitation_card':
+            images = [
+                'images/Groom_Invitation_Card/Groom_Invitation_Card_1.jpg',
+                'images/Groom_Invitation_Card/Groom_Invitation_Card_2.jpg',
+                'images/Groom_Invitation_Card/Groom_Invitation_Card_3.jpg',
+                'images/Groom_Invitation_Card/Groom_Invitation_Card_4.jpg',
+            ];
             break;
         // Add more cases for different types as needed
         default:
