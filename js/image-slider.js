@@ -38,6 +38,7 @@ function openModal(type) {
                 'images/Engagement/Roka-9.jpg',
                 'images/Engagement/Roka-10.jpg',
             ];
+            break;
         case 'groom_invitation_card':
             images = [
                 'images/Groom_Invitation_Card/Groom_Invitation_Card_1.jpg',
