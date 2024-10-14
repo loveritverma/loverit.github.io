@@ -35,8 +35,8 @@ function openModal(type) {
             break;
         case 'engagement':
             images = [
-                'images/Roka/Roka-9.jpg',
-                'images/Roka/Roka-10.jpg',
+                'images/Engagement/Roka-9.jpg',
+                'images/Engagement/Roka-10.jpg',
             ];
         case 'groom_invitation_card':
             images = [
