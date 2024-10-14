@@ -8,35 +8,35 @@ function openModal(type) {
     switch (type) {
         case 'varanasi':
             images = [
-                'images/Varanasi-1.jpg',
-                'images/Varanasi-2.jpg',
-                'images/Varanasi-3.jpg',
-                'images/Varanasi-4.jpg',
-                'images/Varanasi-5.jpg',
-                'images/Varanasi-6.jpg',
-                'images/Varanasi-7.jpg',
-                'images/Varanasi-8.jpg',
-                'images/Varanasi-9.jpg',
+                'images/Varanasi/Varanasi-1.jpg',
+                'images/Varanasi/Varanasi-2.jpg',
+                'images/Varanasi/Varanasi-3.jpg',
+                'images/Varanasi/Varanasi-4.jpg',
+                'images/Varanasi/Varanasi-5.jpg',
+                'images/Varanasi/Varanasi-6.jpg',
+                'images/Varanasi/Varanasi-7.jpg',
+                'images/Varanasi/Varanasi-8.jpg',
+                'images/Varanasi/Varanasi-9.jpg',
             ];
             break;
         case 'roka':
             images = [
-                'images/Roka-1.jpg',
-                'images/Roka-2.jpg',
-                'images/Roka-3.jpg',
-                'images/Roka-4.jpg',
-                'images/Roka-5.jpg',
-                'images/Roka-6.jpg',
-                'images/Roka-7.jpg',
-                'images/Roka-8.jpg',
-                'images/Roka-9.jpg',
-                'images/Roka-10.jpg',
+                'images/Roka/Roka-1.jpg',
+                'images/Roka/Roka-2.jpg',
+                'images/Roka/Roka-3.jpg',
+                'images/Roka/Roka-4.jpg',
+                'images/Roka/Roka-5.jpg',
+                'images/Roka/Roka-6.jpg',
+                'images/Roka/Roka-7.jpg',
+                'images/Roka/Roka-8.jpg',
+                'images/Roka/Roka-9.jpg',
+                'images/Roka/Roka-10.jpg',
             ];
             break;
         case 'engagement':
             images = [
-                'images/Roka-9.jpg',
-                'images/Roka-10.jpg',
+                'images/Roka/Roka-9.jpg',
+                'images/Roka/Roka-10.jpg',
             ];
         case 'groom_invitation_card':
             images = [
